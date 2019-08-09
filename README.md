@@ -1,4 +1,4 @@
-###  Interactive effects of microbes and nitrogen on Panicum virgatum root functional traits and patterns of phenotypic selection
+###  Interactive effects of microbes and nitrogen on *Panicum virgatum* root functional traits and patterns of phenotypic selection
 
 Manuscript is currently in review.
 
