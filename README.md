@@ -1,12 +1,12 @@
 ###  Interactive effects of microbes and nitrogen on *Panicum virgatum* root functional traits and patterns of phenotypic selection
 
-Manuscript is currently in review.
+Manuscript is currently in published.
 
 This is the code for plots, ASV picking via qiime2, and statistical analysis for this article. 
 
 Interactive effects of microbes and nitrogen on Panicum virgatum root functional traits and patterns of phenotypic selection. 
 Renee H. Petipas, Alan W. Bowsher, Cody Bekkerring, Chandra N. Jack, Emily E. McLachlan, Richard Allen White III, Brett S. Younginger,
-Lisa K. Tiemann, Sarah E. Evans, Maren L. Friesen.  International Journal of Plant Sciences (IJPS).
+Lisa K. Tiemann, Sarah E. Evans, Maren L. Friesen.  International Journal of Plant Sciences (IJPS). [link](https://www.journals.uchicago.edu/doi/abs/10.1086/706198?mobileUi=0&)
 
 
 **Analysis**
